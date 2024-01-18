@@ -1,0 +1,27 @@
+(Client Account)
+
+Home:
+http://localhost:3000/
+
+Products:
+http://localhost:3000/products
+
+Cart:
+http://localhost:3000/cart
+
+Orders:
+http://localhost:3000/orders (to be update)
+
+
+
+
+(Admin)
+
+Dashboard:
+http://localhost:3000/dashboard
+
+Note:
+Yung admin po mga sir may 3 main states:
+	- Dashboard
+	- Add Product
+	- Orders (to be update)

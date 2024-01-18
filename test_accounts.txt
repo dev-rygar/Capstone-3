@@ -1,0 +1,7 @@
+Admin:
+bear@gmail.com
+12341234
+
+Client:
+juan.delacruz@example.ph
+12341234
