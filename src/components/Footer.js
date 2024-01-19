@@ -5,9 +5,9 @@ const navigation = {
     { name: 'John', href: '#' },
     { name: 'Garry', href: '#' },
     { name: 'Tan', href: '#' },
-    { name: 'Rene', href: '#' },
-    { name: 'Castro', href: '#' },
-    { name: 'Jr.', href: '#' },
+    { name: 'Small', href: '#' },
+    { name: 'Project', href: '#' },
+    { name: 'hehe.', href: '#' },
   ],
   social: [
     {
